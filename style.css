@@ -128,7 +128,7 @@ h2 {
 /* Search Section */
 
 #search {
-	background-image: url(../Assets/Logo/Img-search.png);
+	background-image: url(/Assets/Logo/Img-search.png);
 	height: 100vh;
 	background-repeat: no-repeat;
 	background-size: cover;
